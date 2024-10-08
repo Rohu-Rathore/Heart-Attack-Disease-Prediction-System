@@ -4,7 +4,7 @@ About the Project
 
 Heart disease is a global health issue that affects millions of people annually. Early detection and accurate diagnosis are crucial in reducing the risk of severe complications. This project aims to build a web-based platform using Flask, MySQL, and machine learning to predict the likelihood of heart disease in patients. The system allows users to input their health data and receive real-time predictions regarding their risk of heart disease. Additionally, users can provide feedback, share their experiences, and track their health history, making it a comprehensive solution for early detection and personalized care.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Features
 
