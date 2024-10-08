@@ -18,7 +18,7 @@ Features
 
 -> Future plans to explore new machine learning algorithms and enhance user experience.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Machine Learning algorithms used:
 
@@ -38,13 +38,15 @@ Machine Learning algorithms used:
 
 . Artificial Neural Network with 1 Hidden layer (Keras)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Accuracy achieved: 95% (Random Forest)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Modules
 
@@ -66,7 +68,7 @@ User Module:
 
 ->Logout Module: Secures user privacy by logging them out after use.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tools and Technologies
 
@@ -88,7 +90,7 @@ Database:
 
 . MySQL: Used to store user data, predictions, and patient history. It offers fast, reliable data management and supports integration with various programming languages.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 System Requirements
 
@@ -110,7 +112,7 @@ Hardware Requirements:
 
 -> Internet Connection: Stable connection with 512 kbps speed for each system.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Installation and Setup
 
@@ -120,7 +122,7 @@ Installation and Setup
 
 . Install Flask and required Python libraries using pip
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Future Enhancements
 
