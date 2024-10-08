@@ -26,17 +26,17 @@ Machine Learning algorithms used:
 
 . Naive Bayes (Scikit-learn)
 
--> Support Vector Machine (Linear) (Scikit-learn)
+. Support Vector Machine (Linear) (Scikit-learn)
 
--> K-Nearest Neighbours (Scikit-learn)
+. K-Nearest Neighbours (Scikit-learn)
 
--> Decision Tree (Scikit-learn)
+. Decision Tree (Scikit-learn)
 
--> Random Forest (Scikit-learn)
+. Random Forest (Scikit-learn)
 
--> XGBoost (Scikit-learn)
+. XGBoost (Scikit-learn)
 
--> Artificial Neural Network with 1 Hidden layer (Keras)
+. Artificial Neural Network with 1 Hidden layer (Keras)
 
 Accuracy achieved: 95% (Random Forest)
 
@@ -72,21 +72,21 @@ Tools and Technologies
 
 Frontend:
 
--> HTML5: Structures the web pages and organizes the content into logical sections.
+. HTML5: Structures the web pages and organizes the content into logical sections.
 
--> CSS: Provides styles to improve the appearance of web pages.
+. CSS: Provides styles to improve the appearance of web pages.
 
--> JavaScript: Adds interactivity to the web platform, such as real-time data processing and prediction display.
+. JavaScript: Adds interactivity to the web platform, such as real-time data processing and prediction display.
 
 Backend:
 
--> Python: Serves as the primary programming language for the logic and data processing.
+. Python: Serves as the primary programming language for the logic and data processing.
 
--> Flask: A lightweight web framework used to build the platform, ensuring rapid and secure web development.
+. Flask: A lightweight web framework used to build the platform, ensuring rapid and secure web development.
 
 Database:
 
--> MySQL: Used to store user data, predictions, and patient history. It offers fast, reliable data management and supports integration with various programming languages.
+. MySQL: Used to store user data, predictions, and patient history. It offers fast, reliable data management and supports integration with various programming languages.
 
 
 
@@ -114,11 +114,11 @@ Hardware Requirements:
 
 Installation and Setup
 
--> Install Python (v3.x) on your machine if not installed.
+. Install Python (v3.x) on your machine if not installed.
 
--> Install MySQL (v8.0.28 or greater).
+. Install MySQL (v8.0.28 or greater).
 
--> Install Flask and required Python libraries using pip
+. Install Flask and required Python libraries using pip
 
 
 
