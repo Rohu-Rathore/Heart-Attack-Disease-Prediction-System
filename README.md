@@ -22,9 +22,9 @@ Features
 
 Machine Learning algorithms used:
 
--> Logistic Regression (Scikit-learn)
+. Logistic Regression (Scikit-learn)
 
--> Naive Bayes (Scikit-learn)
+. Naive Bayes (Scikit-learn)
 
 -> Support Vector Machine (Linear) (Scikit-learn)
 
