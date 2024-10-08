@@ -6,7 +6,6 @@ Heart disease is a global health issue that affects millions of people annually.
 
 
 Features
-
 Machine learning model that predicts heart disease based on patient data.
 
 User-friendly web interface to input personal health details.
